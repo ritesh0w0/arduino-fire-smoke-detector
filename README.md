@@ -14,7 +14,7 @@ An autonomous, embedded fire and smoke early-warning system developed on the **A
 
 The system in action: real-time sensor sampling, automatic hazard evaluation, and immediate alarm triggering upon heat/smoke detection.
 
-Live link-https://youtu.be/V7BQAilHZ1E
+Live Demo link-https://youtu.be/V7BQAilHZ1E
 
 ---
 
