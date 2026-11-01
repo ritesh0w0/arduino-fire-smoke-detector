@@ -102,20 +102,6 @@ For full electrical details, see [docs/PINOUT_GUIDE.md](docs/PINOUT_GUIDE.md).
 
 ---
 
-## 📸 Hardware Setup & Operation Gallery
-
-<p align="center">
-  <img src="assets/hardware_circuit.jpg" width="48%" alt="Internal Circuit Wiring" />
-  <img src="assets/buzzer_mount.jpg" width="48%" alt="Buzzer Enclosure Mount" />
-</p>
-
-<p align="center">
-  <img src="assets/lcd_startup.jpg" width="31%" alt="System Initialization Screen" />
-  <img src="assets/lcd_normal.jpg" width="31%" alt="Safe Environmental Telemetry" />
-  <img src="assets/lcd_fire_detected.jpg" width="31%" alt="Fire Detection Alert Display" />
-</p>
-
----
 
 ## 🧠 Logic & Alarm Thresholds
 
