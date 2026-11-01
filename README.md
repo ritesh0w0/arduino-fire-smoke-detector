@@ -14,11 +14,7 @@ An autonomous, embedded fire and smoke early-warning system developed on the **A
 
 The system in action: real-time sensor sampling, automatic hazard evaluation, and immediate alarm triggering upon heat/smoke detection.
 
-<p align="center">
-  <img src="assets/demo.gif" alt="Hardware Live Demo" width="600" />
-</p>
-
-> *The demo video shows the system transitioning from normal environmental monitoring mode directly into the alarm state (`Fire Detected!`) with continuous buzzer feedback as temperature crosses the safety threshold.*
+Live link-https://youtu.be/V7BQAilHZ1E
 
 ---
 
